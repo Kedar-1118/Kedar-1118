@@ -91,8 +91,6 @@ class Kedar:
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### AI / ML & GenAI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -155,7 +153,7 @@ Two-stage CV pipeline — Stage 1 classifies crop type, Stage 2 identifies disea
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Coming Soon]
+### 🧠 [RAG based Repo Analyzer]
 > **RAG · LLM Agents · Vector DB**
 
 Currently working on an AI agent pipeline with retrieval-augmented generation. Designed to automate developer research workflows using embeddings + tool calling.
