@@ -148,7 +148,6 @@ AI agent pipeline with retrieval-augmented generation for automated developer re
 
 **Impact:** Helps developers understand large codebases faster through semantic search.
 
-**Status:** ✅ **Completed**
 
 `LangChain` `Vector DB` `Agents` `Python` `LLM`
 
