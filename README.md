@@ -127,20 +127,6 @@ Auto-generates production-ready mock REST APIs from JSON schemas — eliminating
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [OpenSourceMatchmaker](https://github.com/Kedar-1118/openSourceMatchmaker)
-> **LLM · GitHub API · MERN**
-
-Matches developers to open-source repos using skill-based search and LLM-driven query generation. Indexed 10,000+ GitHub repositories for real-time semantic matching.
-
-**Impact:** Makes OSS contribution accessible to devs who don't know where to start.
-
-`LLM Integration` `GitHub REST API` `Gen AI` `React`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌿 [Plant-Disease-Predictor](https://github.com/Kedar-1118/plant-disease-predictor)
 > **Computer Vision · TensorFlow · Flask**
 
@@ -151,16 +137,32 @@ Two-stage CV pipeline — Stage 1 classifies crop type, Stage 2 identifies disea
 `TensorFlow` `Deep Learning` `Flask` `Python` `OpenCV`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🧠 [RAG based Repo Analyzer]
+### 🧠 [RAG based Repo Analyzer](https://github.com/Kedar-1118/repo-analyzer-rag)
 > **RAG · LLM Agents · Vector DB**
 
-Currently working on an AI agent pipeline with retrieval-augmented generation. Designed to automate developer research workflows using embeddings + tool calling.
+AI agent pipeline with retrieval-augmented generation for automated developer research workflows. Uses embeddings + tool calling to analyze code repositories intelligently.
 
-**Status:** 🔨 In active development
+**Impact:** Helps developers understand large codebases faster through semantic search.
 
-`LangChain` `Vector DB` `Agents` `Python`
+**Status:** ✅ **Completed**
+
+`LangChain` `Vector DB` `Agents` `Python` `LLM`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [Carbon Footprint Tracker](https://github.com/Kedar-1118/carbon-footprint-tracker)
+> **Full-Stack · Sustainability · MERN**
+
+Tracks personal carbon emissions across transportation, energy, and consumption. Real-time impact visualization with actionable sustainability recommendations powered by data analytics.
+
+**Impact:** Gamifies eco-consciousness — making carbon reduction accessible and measurable for everyday users.
+
+`React` `Node.js` `MongoDB` `Charts.js` `TailwindCSS`
 
 </td>
 </tr>
@@ -217,10 +219,11 @@ Currently working on an AI agent pipeline with retrieval-augmented generation. D
   ├── ✅ Docker & DevOps basics                             │
   ├── ✅ TensorFlow + Computer Vision                       │
   ├── ✅ LLM Integration & GenAI                           │
+  ├── ✅ RAG Pipelines & LLM Agents                        │
   ├── 🔄 Spring Boot (in progress)                         │
   ├── 🔄 System Design (in progress)                       │
-  ├── ⏳ RAG Pipelines & LLM Agents                        │
-  └── ⏳ Kubernetes & Cloud Infra                          │
+  ├── ⏳ Kubernetes & Cloud Infra                          │
+  └── ⏳ Advanced ML Ops & Scaling                        │
 ```
 
 ---
