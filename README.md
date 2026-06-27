@@ -70,7 +70,7 @@ class Kedar:
 | 🔌 **API Engineering** | Designed auto-scaling REST APIs handling real production traffic |
 | 🌿 **Computer Vision** | Two-stage CV pipeline with TensorFlow for real-time crop disease detection |
 | 🧩 **Full-Stack** | End-to-end MERN apps deployed on Render/Vercel with Docker containerization |
-| 📊 **DSA** | 300+ problems solved · 2★ CodeChef · Strong competitive programming base |
+| 📊 **DSA** | 400+ problems solved · 3★ CodeChef · Strong competitive programming base |
 
 ---
 
@@ -141,7 +141,7 @@ Two-stage CV pipeline — Stage 1 classifies crop type, Stage 2 identifies disea
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [RAG based Repo Analyzer](https://github.com/Kedar-1118/repo-analyzer-rag)
+### 🧠 [RAG based Repo Analyzer](https://github.com/Kedar-1118/repoAnalyzer)
 > **RAG · LLM Agents · Vector DB**
 
 AI agent pipeline with retrieval-augmented generation for automated developer research workflows. Uses embeddings + tool calling to analyze code repositories intelligently.
