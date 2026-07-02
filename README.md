@@ -1,252 +1,1091 @@
+<!-- ========================================================= -->
+<!--                Kedar Dhotre | GitHub Profile              -->
+<!--                    README.md (Chunk 1/5)                  -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,25:1E3A8A,50:2563EB,75:06B6D4,100:14B8A6&text=Kedar%20Dhotre&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Building%20Production-Ready%20Software&descAlignY=58&descAlign=50" width="100%"/>
 
-<br/>
+# 👋 Hi, I'm Kedar
 
-```
-██╗  ██╗███████╗██████╗  █████╗ ██████╗
-██║ ██╔╝██╔════╝██╔══██╗██╔══██╗██╔══██╗
-█████╔╝ █████╗  ██║  ██║███████║██████╔╝
-██╔═██╗ ██╔══╝  ██║  ██║██╔══██║██╔══██╗
-██║  ██╗███████╗██████╔╝██║  ██║██║  ██║
-╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+### AI Systems Engineer • Full-Stack Developer • Problem Solver
 
-### I build **full-stack systems** with **AI at the core** — from model to production.
+Building intelligent software that combines **Artificial Intelligence, scalable backend systems, and modern web technologies** to solve real-world problems.
 
-*B.Tech CSE @ Walchand College of Engineering, Sangli · CGPA: 8.82/10*
+<br>
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kedar-dhotre-1b3802265)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kedar-1118)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:kedardhotre@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kedar-dhotre-1b3802265)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kedar-1118)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kedar.s.d)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedardhotre@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kedar-1118&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Kedar-1118&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-```python
-class Kedar:
-    def __init__(self):
-        self.name       = "Kedar Dhotre"
-        self.role       = "Full-Stack Engineer & AI/ML Builder"
-        self.location   = "Satara, Maharashtra, India 🇮🇳"
-        self.education  = "B.Tech CS @ WCE Sangli (2022–2026)"
-        self.cgpa       = 8.82
+I'm a Computer Science undergraduate passionate about designing and building **AI-first software systems**.
 
-    @property
-    def currently(self):
-        return [
-            "🔭 Building AI-powered developer tools",
-            "📖 Learning Spring Boot & System Design",
-            "🌱 Exploring LLM Agents & RAG pipelines",
-            "✍️  Writing about AI/ML on the side",
-        ]
+Instead of treating AI as an add-on, I enjoy engineering complete products where machine learning, LLMs, scalable backend architecture, and intuitive frontend experiences work together seamlessly.
 
-    @property
-    def open_to(self):
-        return ["Internships", "Open Source", "Collaborations", "Research"]
+My interests lie at the intersection of
 
-    def philosophy(self):
-        return "Ship fast, learn faster. Build things that matter."
+- Artificial Intelligence
+- Large Language Models
+- Backend Engineering
+- Distributed Systems
+- Developer Tools
+- Computer Vision
+- Cloud Infrastructure
+- System Design
+
+I enjoy transforming ambitious ideas into polished products that people can actually use.
+
+---
+
+# 💡 Current Focus
+
+```text
+Building
+│
+├── AI Developer Platforms
+├── Production-ready Backend APIs
+├── RAG Pipelines
+├── LLM Agents
+├── AI Interview Systems
+├── Carbon Intelligence Platforms
+└── Modern Portfolio Experiences
+```
+
+Currently exploring
+
+- Spring Boot
+- System Design
+- Kubernetes
+- Cloud Infrastructure
+- Distributed Systems
+- AI Agent Workflows
+- Retrieval Augmented Generation
+- Production AI Deployment
+
+---
+
+# 🧠 Philosophy
+
+> Build software that is useful.
+>
+> Build systems that scale.
+>
+> Build products that people remember.
+
+---
+
+# ⚡ Quick Facts
+
+```yaml
+Name:
+  Kedar Dhotre
+
+Education:
+  B.Tech Computer Science Engineering
+
+University:
+  Walchand College of Engineering
+
+Specialization:
+  Artificial Intelligence
+  Backend Engineering
+  Full Stack Development
+
+Currently Learning:
+  Spring Boot
+  Kubernetes
+  System Design
+  Distributed Systems
+
+Interests:
+  AI
+  Machine Learning
+  Backend
+  Open Source
+  DevOps
+  Cloud
 ```
 
 ---
 
-## ⚡ What I Bring to the Table
+# 🛠 Tech Stack
 
-| Strength | Description |
-|----------|-------------|
-| 🤖 **AI Integration** | Built LLM-powered apps from scratch — query generation, embeddings, RAG |
-| 🔌 **API Engineering** | Designed auto-scaling REST APIs handling real production traffic |
-| 🌿 **Computer Vision** | Two-stage CV pipeline with TensorFlow for real-time crop disease detection |
-| 🧩 **Full-Stack** | End-to-end MERN apps deployed on Render/Vercel with Docker containerization |
-| 📊 **DSA** | 400+ problems solved · 3★ CodeChef · Strong competitive programming base |
+## Languages
 
----
+<p>
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java"/>
 
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### AI / ML & GenAI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-00897B?style=flat-square&logo=google&logoColor=white)
-
-### DevOps & Databases
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## Frontend
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
 
-### 🔌 [Demo-API](https://github.com/Kedar-1118/CC_ISE2)
-> **PaaS · MERN · Docker**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite"/>
 
-Auto-generates production-ready mock REST APIs from JSON schemas — eliminating hours of manual backend scaffolding. Supports instant CRUD endpoints, hosted and containerized.
-
-**Impact:** Cuts backend setup time from hours to seconds for prototypers & hackathon devs.
-
-`MongoDB Atlas` `Docker` `Render` `Vercel` `Express`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌿 [Plant-Disease-Predictor](https://github.com/Kedar-1118/plant-disease-predictor)
-> **Computer Vision · TensorFlow · Flask**
-
-Two-stage CV pipeline — Stage 1 classifies crop type, Stage 2 identifies disease with real-time inference. Designed for farmers needing instant field diagnoses.
-
-**Impact:** Bridges the gap between deep learning research and practical agri-tech.
-
-`TensorFlow` `Deep Learning` `Flask` `Python` `OpenCV`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [RAG based Repo Analyzer](https://github.com/Kedar-1118/repoAnalyzer)
-> **RAG · LLM Agents · Vector DB**
-
-AI agent pipeline with retrieval-augmented generation for automated developer research workflows. Uses embeddings + tool calling to analyze code repositories intelligently.
-
-**Impact:** Helps developers understand large codebases faster through semantic search.
-
-
-`LangChain` `Vector DB` `Agents` `Python` `LLM`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 [Carbon Footprint Tracker](https://github.com/Kedar-1118/carbon-footprint-tracker)
-> **Full-Stack · Sustainability · MERN**
-
-Tracks personal carbon emissions across transportation, energy, and consumption. Real-time impact visualization with actionable sustainability recommendations powered by data analytics.
-
-**Impact:** Gamifies eco-consciousness — making carbon reduction accessible and measurable for everyday users.
-
-`React` `Node.js` `MongoDB` `Charts.js` `TailwindCSS`
-
-</td>
-</tr>
-</table>
-
-> 💡 *More projects on my [GitHub profile →](https://github.com/Kedar-1118)*
+</p>
 
 ---
 
-## 🏆 Achievements & Recognition
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres"/>
+
+</p>
+
+---
+
+## AI / ML
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch"/>
+
+</p>
+
+**Also Working With**
+
+- LangChain
+- RAG
+- Vector Databases
+- Embeddings
+- Prompt Engineering
+- LLM Agents
+- Generative AI
+
+---
+
+## DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,render"/>
+
+</p>
+
+---
+
+# 🏗 Engineering Areas
+
+| Area | Experience |
+|-------|------------|
+| 🤖 AI Systems | LLM Applications, RAG, Prompt Engineering |
+| 🌐 Full Stack | MERN Applications |
+| ⚙ Backend | REST APIs, Authentication, Database Design |
+| 🧠 Machine Learning | TensorFlow, Deep Learning |
+| 🌱 Computer Vision | Image Classification |
+| 📊 Databases | MongoDB, PostgreSQL, MySQL |
+| 🐳 DevOps | Docker, Linux, Deployment |
+| 💻 Competitive Programming | DSA & Algorithms |
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 OpenPulse
+
+> AI-powered developer intelligence platform.
+
+A modern AI platform capable of analyzing repositories, understanding architecture, generating documentation, answering questions using Retrieval-Augmented Generation, and assisting developers through intelligent workflows.
+
+### Highlights
+
+- Repository Analysis
+- AI Documentation
+- RAG Pipeline
+- Semantic Search
+- Repository Chat
+- Embeddings
+- Developer Assistant
+- Vector Database
+- LLM Integration
+
+**Tech**
 
 ```
-🌟  8.82 CGPA  — Top academic standing in B.Tech CS
-⭐  2★ CodeChef  — Rated competitive programmer
-🏆  WCE Hackathon 2024 Finalist  — Among top teams college-wide
-💯  300+ DSA Problems  — LeetCode · CodeChef · GeeksForGeeks
-☁️  Google Cloud Campaign 2024  — Fully completed
-🎤  Management Executive @ GDG WCE Sangli (Jun '24 – May '25)
-     └─ Organized AI/ML Bootcamp for 100+ students
-     └─ Coordinated International Conference on Communication
+Python
+LangChain
+LLMs
+Vector DB
+FastAPI
+React
+Docker
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 🎤 AI Proctored Interview Platform
+
+A next-generation interview platform combining AI-assisted interviewing, automated evaluation, live monitoring, analytics, and recruiter dashboards.
+
+### Features
+
+- AI Interviewer
+- Real-time Evaluation
+- Face Monitoring
+- Screen Monitoring
+- Anti-cheating
+- Recruiter Dashboard
+- Resume Analysis
+- Candidate Reports
+- Live Coding
+- Analytics
+
+**Tech**
+
+```
+React
+Node.js
+Express
+MongoDB
+TensorFlow
+OpenCV
+LLM APIs
+Docker
+```
+
+---
+
+## 🌍 Carbon Twin V3
+
+An AI-powered sustainability platform focused on helping individuals and organizations understand, visualize, and reduce their carbon footprint.
+
+### Features
+
+- Carbon Tracking
+- AI Insights
+- Analytics Dashboard
+- Emission Prediction
+- Reports
+- Personalized Recommendations
+- Visualization
+
+---
+
+<!-- ========================================================= -->
+<!--                    README.md (Chunk 2/5)                  -->
+<!-- ========================================================= -->
+
+### Technology
+
+```text
+React
+Node.js
+Express
+MongoDB
+Chart.js
+AI Recommendation Engine
+Docker
+```
+
+---
+
+## 🧩 DemoAPI
+
+**Generate production-ready REST APIs from a JSON schema in seconds.**
+
+DemoAPI eliminates repetitive backend boilerplate by automatically creating CRUD APIs, database models, routing, validation, documentation, and deployment-ready services.
+
+### Highlights
+
+- JSON Schema → REST API
+- Automatic CRUD
+- Database Models
+- Authentication
+- Docker Support
+- API Documentation
+- Production Ready
+
+### Stack
+
+```text
+Node.js
+Express
+MongoDB
+Docker
+Render
+Vercel
+```
+
+---
+
+## 🌱 Plant Disease Predictor
+
+An AI-powered computer vision system for agricultural disease detection.
+
+The application uses a **two-stage inference pipeline**:
+
+- Stage 1 → Detect Crop
+- Stage 2 → Detect Disease
+
+Designed to provide rapid field diagnostics for farmers using deep learning.
+
+### Features
+
+- Deep Learning
+- TensorFlow
+- CNN Models
+- Image Classification
+- Disease Prediction
+- Flask Backend
+- Real-time Prediction
+
+---
+
+## 📚 Repository Analyzer
+
+A Retrieval-Augmented Generation platform capable of understanding software repositories using embeddings and semantic search.
+
+### Features
+
+- Repository Indexing
+- AI Chat
+- Semantic Search
+- Documentation Generation
+- Architecture Explanation
+- Code Understanding
+- Embeddings
+- LangChain
+
+---
+
+# 💻 What I Enjoy Building
+
+## 🤖 AI Applications
+
+- LLM Applications
+- RAG Systems
+- AI Agents
+- Semantic Search
+- Prompt Engineering
+- AI Workflows
+- Chat Applications
+
+---
+
+## ⚙ Backend Systems
+
+- REST APIs
+- Authentication
+- Authorization
+- Database Design
+- Microservices
+- Dockerized Services
+- API Integrations
+
+---
+
+## 🌐 Full Stack Applications
+
+- SaaS Platforms
+- Dashboards
+- Admin Panels
+- Developer Tools
+- Productivity Applications
+- AI Platforms
+- Data Visualization
+
+---
+
+## ☁ Infrastructure
+
+- Docker
+- Linux
+- GitHub Actions
+- CI/CD
+- Cloud Deployments
+- Monitoring
+- Logging
+
+---
+
+# 📈 Engineering Principles
+
+I enjoy writing software that is
+
+- Maintainable
+- Modular
+- Scalable
+- Extensible
+- Observable
+- Well Documented
+
+Rather than building quick demos, I focus on creating systems that resemble real production software.
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Kedar-1118&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar-1118&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kedar-1118&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kedar-1118&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kedar-1118&theme=tokyonight&hide_border=true)
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kedar-1118&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📅 Coding Activity
-
-<!--START_SECTION:waka-->
-> ⏳ *WakaTime integration coming soon — tracking daily coding hours*
-<!--END_SECTION:waka-->
-
----
-
-## 🗺️ Learning Roadmap
-
-```
-2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026
-  │                                                           │
-  ├── ✅ MERN Stack                                          │
-  ├── ✅ Docker & DevOps basics                             │
-  ├── ✅ TensorFlow + Computer Vision                       │
-  ├── ✅ LLM Integration & GenAI                           │
-  ├── ✅ RAG Pipelines & LLM Agents                        │
-  ├── 🔄 Spring Boot (in progress)                         │
-  ├── 🔄 System Design (in progress)                       │
-  ├── ⏳ Kubernetes & Cloud Infra                          │
-  └── ⏳ Advanced ML Ops & Scaling                        │
-```
-
----
-
-## 🤝 Let's Collaborate
-
-I'm actively looking for:
-
-- 🧪 **Internship roles** in SDE / AI-ML Engineering (Summer 2025)
-- 🔗 **Open source contributions** — especially AI/ML or developer tooling projects
-- 🤝 **Hackathon teammates** who ship fast and learn together
-- 💬 **Conversations** about LLMs, system design, or anything you're building
+# 📈 Contribution Graph
 
 <div align="center">
 
-### 📬 Reach out — I respond fast.
-
-[![LinkedIn](https://img.shields.io/badge/DM_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kedar-dhotre-1b3802265)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedardhotre@gmail.com)
-
-<br/>
-
-*"The best way to learn engineering is to build things that embarrass your past self."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kedar-1118&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+# 🏆 Achievements
+
+- 💻 Built multiple end-to-end AI-powered applications
+- 🚀 Experienced in deploying full-stack applications
+- 🧠 Strong foundation in Data Structures & Algorithms
+- 🌱 Built production-style MERN applications
+- 🤖 Developed Computer Vision and Deep Learning projects
+- 🔍 Built Retrieval-Augmented Generation systems
+- 📚 Continuously learning System Design and Cloud Engineering
+
+---
+
+# 📖 Learning Journey
+
+```text
+C Programming
+      │
+      ▼
+C++
+      │
+      ▼
+Data Structures
+      │
+      ▼
+Algorithms
+      │
+      ▼
+Web Development
+      │
+      ▼
+MERN Stack
+      │
+      ▼
+Docker
+      │
+      ▼
+TensorFlow
+      │
+      ▼
+Computer Vision
+      │
+      ▼
+Generative AI
+      │
+      ▼
+RAG Systems
+      │
+      ▼
+LLM Agents
+      │
+      ▼
+Spring Boot
+      │
+      ▼
+System Design
+      │
+      ▼
+Cloud Infrastructure
+```
+
+---
+
+# 🧭 Areas of Interest
+
+```text
+Artificial Intelligence
+
+Backend Engineering
+
+Developer Tools
+
+Large Language Models
+
+Distributed Systems
+
+Cloud Computing
+
+Machine Learning
+
+Computer Vision
+
+System Design
+
+Open Source
+```
+
+---
+
+# 📂 Repository Categories
+
+```text
+AI
+│
+├── LLM
+├── RAG
+├── Agents
+└── NLP
+
+Backend
+│
+├── REST APIs
+├── Authentication
+├── Databases
+└── Microservices
+
+Frontend
+│
+├── React
+├── TailwindCSS
+└── Modern UI
+
+Machine Learning
+│
+├── TensorFlow
+├── OpenCV
+└── Deep Learning
+
+Utilities
+│
+├── Developer Tools
+├── Productivity
+└── Automation
+```
+
+<!-- ========================================================= -->
+<!--                    README.md (Chunk 3/5)                  -->
+<!-- ========================================================= -->
+
+# 🚀 Current Roadmap
+
+```text
+                                        Future
+                                          │
+                                          ▼
+                          ┌─────────────────────────────────┐
+                          │  Distributed AI Systems         │
+                          └─────────────────────────────────┘
+                                          ▲
+                          ┌─────────────────────────────────┐
+                          │ Kubernetes & Cloud              │
+                          └─────────────────────────────────┘
+                                          ▲
+                          ┌─────────────────────────────────┐
+                          │ DevOps & CI/CD                  │
+                          └─────────────────────────────────┘
+                                          ▲
+                          ┌─────────────────────────────────┐
+                          │ System Design                   │
+                          └─────────────────────────────────┘
+                                          ▲
+                          ┌─────────────────────────────────┐
+                          │ Spring Boot                     │
+                          └─────────────────────────────────┘
+                                          ▲
+                          ┌─────────────────────────────────┐
+                          │ LLM Agents & RAG                │
+                          └─────────────────────────────────┘
+                                          ▲
+                          ┌─────────────────────────────────┐
+                          │ Full Stack Development          │
+                          └─────────────────────────────────┘
+```
+
+---
+
+# 📌 What I'm Currently Working On
+
+### 🧠 AI Interview Platform
+
+Building an intelligent interview ecosystem capable of conducting AI-assisted interviews with automated evaluation, proctoring, analytics, recruiter dashboards, and candidate reports.
+
+---
+
+### 🚀 OpenPulse
+
+Developing an AI-powered platform for understanding repositories through semantic search, retrieval-augmented generation, documentation generation, architecture visualization, and developer assistance.
+
+---
+
+### 🌍 Carbon Twin
+
+Creating a modern sustainability platform that leverages AI to provide actionable insights into carbon emissions with beautiful visual analytics.
+
+---
+
+### 🌐 Personal Portfolio
+
+Building a premium developer portfolio focused on storytelling, engineering quality, interactive experiences, and recruiter engagement.
+
+---
+
+# 🧩 Engineering Mindset
+
+I enjoy solving problems involving:
+
+- Backend Architecture
+- API Design
+- AI Integration
+- Product Engineering
+- Performance Optimization
+- System Scalability
+- User Experience
+- Automation
+- Clean Code
+- Software Architecture
+
+---
+
+# 📚 Tech Radar
+
+## Languages
+
+```text
+C++
+Python
+JavaScript
+Java
+SQL
+```
+
+---
+
+## Frameworks
+
+```text
+React
+
+Next.js
+
+Node.js
+
+Express
+
+Spring Boot
+
+TailwindCSS
+
+TensorFlow
+```
+
+---
+
+## Databases
+
+```text
+MongoDB
+
+PostgreSQL
+
+MySQL
+```
+
+---
+
+## AI
+
+```text
+LLMs
+
+LangChain
+
+Prompt Engineering
+
+Embeddings
+
+RAG
+
+Agents
+
+Vector Search
+
+Semantic Retrieval
+```
+
+---
+
+## DevOps
+
+```text
+Docker
+
+Linux
+
+GitHub Actions
+
+CI/CD
+
+Cloud Deployment
+```
+
+---
+
+# 📖 Design Principles
+
+Every project I build follows these ideas:
+
+- Simplicity over unnecessary complexity
+- Readability before cleverness
+- Performance matters
+- Developer Experience matters
+- Reusable architecture
+- Scalable systems
+- Clean UI
+- Real-world usability
+
+---
+
+# 📊 Development Workflow
+
+```text
+Idea
+ │
+ ▼
+Research
+ │
+ ▼
+Architecture
+ │
+ ▼
+Prototype
+ │
+ ▼
+Backend
+ │
+ ▼
+Frontend
+ │
+ ▼
+AI Integration
+ │
+ ▼
+Testing
+ │
+ ▼
+Docker
+ │
+ ▼
+Deployment
+ │
+ ▼
+Continuous Improvements
+```
+
+---
+
+# 🌟 Open Source
+
+I enjoy contributing to projects involving
+
+- Artificial Intelligence
+- Developer Productivity
+- Machine Learning
+- Web Technologies
+- Open Source Tools
+- Backend Infrastructure
+
+Always interested in collaborating on impactful software.
+
+---
+
+# 📚 Books & Topics I'm Exploring
+
+- Designing Data Intensive Applications
+- Clean Architecture
+- System Design
+- Distributed Systems
+- AI Engineering
+- Machine Learning Systems
+- High Performance APIs
+- Cloud Native Applications
+
+---
+
+# 📈 Growth Mindset
+
+```text
+Learn
+
+↓
+
+Build
+
+↓
+
+Break
+
+↓
+
+Improve
+
+↓
+
+Repeat
+```
+
+---
+
+# 🎯 Long-Term Vision
+
+My goal is to become an engineer capable of building intelligent software systems at scale.
+
+I want to work on products that combine
+
+- Artificial Intelligence
+- Distributed Systems
+- Backend Infrastructure
+- Cloud Computing
+- Great Product Design
+
+to create software that delivers meaningful value to users.
+
+---
+
+# 💼 Looking For
+
+I'm always excited to connect regarding:
+
+- Software Engineering Internships
+- AI Engineering Roles
+- Open Source Contributions
+- Research Opportunities
+- Hackathons
+- Developer Communities
+- Technical Collaborations
+
+---
+
+
+<!-- ========================================================= -->
+<!--                    README.md (Chunk 4/5)                  -->
+<!-- ========================================================= -->
+
+# 📊 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/Kedar-1118">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚙️ Development Environment
+
+```yaml
+Editor:
+  - VS Code
+
+Operating Systems:
+  - Linux
+  - Windows
+
+Version Control:
+  - Git
+  - GitHub
+
+Containerization:
+  - Docker
+
+API Testing:
+  - Postman
+
+Database Tools:
+  - MongoDB Compass
+  - MySQL Workbench
+
+Design:
+  - Figma
+
+Deployment:
+  - Vercel
+  - Render
+```
+
+---
+
+# 🏗️ Preferred Architecture
+
+```text
+                    Client
+                       │
+        ┌──────────────┴──────────────┐
+        │                             │
+        ▼                             ▼
+    React UI                  Mobile / Web
+        │
+        ▼
+     REST APIs
+        │
+        ▼
+ Authentication Layer
+        │
+        ▼
+ Business Logic
+        │
+        ▼
+ AI Services / ML Models
+        │
+        ▼
+ Database + Vector Store
+        │
+        ▼
+ Monitoring & Deployment
+```
+
+---
+
+# 📅 2026 Focus
+
+### Backend Engineering
+- Spring Boot
+- Scalable APIs
+- PostgreSQL
+- Authentication
+- Clean Architecture
+
+### Artificial Intelligence
+- LLM Agents
+- RAG
+- Vector Search
+- Multi-Agent Systems
+- AI Workflows
+
+### Cloud & DevOps
+- Docker
+- Kubernetes
+- CI/CD
+- Monitoring
+- Cloud Deployments
+
+### Computer Science
+- System Design
+- Distributed Systems
+- Networking
+- Operating Systems
+- Database Internals
+
+---
+
+# 📈 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kedar-1118&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kedar-1118&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kedar-1118&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kedar-1118&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kedar-1118&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🤝 Let's Build Something Amazing
+
+If you're working on
+
+- AI Products
+- Developer Tools
+- Full-Stack Platforms
+- Backend Infrastructure
+- Open Source
+- Machine Learning
+- Research Projects
+
+I'd love to collaborate.
+
+---
+
+# 📬 Contact
+
+<div align="center">
+
+### 📧 Email
+
+**kedardhotre23@gmail.com**
+
+### 💼 LinkedIn
+
+**linkedin.com/in/kedar-dhotre-1b3802265**
+
+### 🐙 GitHub
+
+**github.com/Kedar-1118**
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+> *"The best way to predict the future is to build it."*
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! ⭐
+
+If you like my work, consider starring a repository or connecting with me.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,25:1E3A8A,50:2563EB,75:06B6D4,100:14B8A6"/>
+
+</div>
+
+
